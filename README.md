@@ -11,6 +11,6 @@ After sucessfull installation run the ELD.py code.
 Add the number of busses and the desired data.
 By default a 2 bus system is present in the system.
 
-![pic 1](https://user-images.githubusercontent.com/82279273/133479201-dc59befa-5fe0-4bf3-9e04-b7f6bc145e90.png)
+![pic 1](https://user-images.githubusercontent.com/82279273/133479351-75c598ec-18c2-49d1-8ea5-b68adb2ed005.png)
 ![pic 2](https://user-images.githubusercontent.com/82279273/133479214-12d3c532-0677-410e-8247-7de12a7120c8.png)
 ![pic 3](https://user-images.githubusercontent.com/82279273/133479218-f358be47-3265-41b7-89e3-1f7385529d58.png)
